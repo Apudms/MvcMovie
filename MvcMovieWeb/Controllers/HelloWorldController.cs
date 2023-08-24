@@ -10,7 +10,6 @@ namespace MvcMovieWeb.Controllers
         //    return View();
         //}
 
-
         // GET: /HelloWorld/
         public string Index()
         {
