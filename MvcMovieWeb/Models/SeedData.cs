@@ -21,6 +21,7 @@ namespace MvcMovieWeb.Models
                         Title = "The Friendship Game",
                         ReleaseDate = DateTime.Parse("2023-8-30"),
                         Genre = "Horror, Sci-Fi",
+                        Rating = "R",
                         Price = 3.99M
                     },
                     new Movie
@@ -28,6 +29,7 @@ namespace MvcMovieWeb.Models
                         Title = "Satu Hari dengan Ibu",
                         ReleaseDate = DateTime.Parse("2023-9-21"),
                         Genre = "Drama, Family",
+                        Rating = "R",
                         Price = 3.49M
                     },
                     new Movie
@@ -35,6 +37,7 @@ namespace MvcMovieWeb.Models
                         Title = "No Hard Feelings",
                         ReleaseDate = DateTime.Parse("2023-9-14"),
                         Genre = "Comedy, Romance",
+                        Rating = "R",
                         Price = 4.49M
                     },
                     new Movie
@@ -42,6 +45,7 @@ namespace MvcMovieWeb.Models
                         Title = "The Nun II",
                         ReleaseDate = DateTime.Parse("2023-9-21"),
                         Genre = "Horror, Mystery",
+                        Rating = "R",
                         Price = 4.99M
                     }
                 );
